@@ -1,0 +1,18 @@
+{
+    "markdown-pdf.highlightStyle": "github.css",
+    "markdown-pdf.stylesRelativePathFile": true,
+    "markdown-pdf.includeDefaultStyles": true,
+    "markdown-pdf.footerTemplate": "<span class='pageNumber'></span> : current page number",
+    "markdown-pdf.headerTemplate": "",
+    "markdown-pdf.highlight": true,
+    "markdown-pdf.scale": 0.7,
+    "markdown-pdf.displayHeaderFooter": false,
+    "markdown-pdf.breaks": false,
+    "markdown-pdf.markdown-it-include.enable": false,
+    "markdown-pdf.styles": [
+        "markdown/github-markdown.css"
+    ],
+    "markdown.styles": [
+        "markdown/github-markdown.css"
+    ]
+}
